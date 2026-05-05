@@ -42,7 +42,7 @@ Energy_Management_System/
 The backend handles all the optimization algorithms, AI/ML features, and database management. 
 
 ### 1. Open Terminal in the Root Directory
-Make sure your terminal is opened in the `BTP_II` folder.
+Make sure your terminal is opened in the `Energy_Management_System` folder.
 
 ### 2. Create a Virtual Environment
 It is highly recommended to isolate your Python dependencies.
