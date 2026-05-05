@@ -26,7 +26,7 @@ Before you begin, ensure you have the following installed on your machine:
 ## 📂 Project Structure
 
 ```text
-BTP_II/
+Energy_Management_System/
 ├── main.py              # FastAPI Application Entry Point
 ├── requirements.txt     # Python Dependencies
 ├── .env.sample          # Sample Environment Variables for Backend
